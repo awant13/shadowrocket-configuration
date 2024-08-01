@@ -1,7 +1,5 @@
 # NAME: Proxy
 # AUTHOR: awant13
-# REPO: https://github.com/awant13/shadowrocket-configuration-file
-# UPDATED: 2024-08-01 15:56:14
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
