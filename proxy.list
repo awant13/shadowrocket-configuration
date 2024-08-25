@@ -2,7 +2,9 @@
 # AUTHOR: awant13
 DOMAIN-SUFFIX,whatismyipaddress.com
 #youtube
+DOMAIN-SUFFIX,google.ru
 DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube.ru
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,video.google.com
