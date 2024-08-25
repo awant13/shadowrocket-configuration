@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,static.doubleclick.net
+DOMAIN-SUFFIX,gstatic.com
 #instgram
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-KEYWORD,instagram
