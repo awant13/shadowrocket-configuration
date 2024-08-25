@@ -15,3 +15,7 @@ DOMAIN-SUFFIX,yt3.googleusercontent.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
+#instgram
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,facebook.com
