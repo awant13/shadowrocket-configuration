@@ -185,3 +185,5 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,facebook.com
+# Custom
+DOMAIN-SUFFIX,myip.ru
