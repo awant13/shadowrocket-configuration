@@ -187,3 +187,6 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,facebook.com
 # Custom
 DOMAIN-SUFFIX,myip.ru
+# Whatsapp
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.com
