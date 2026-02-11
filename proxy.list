@@ -1,6 +1,8 @@
 # NAME: Proxy
 # AUTHOR: awant13
 DOMAIN-SUFFIX,whatismyipaddress.com
+# DNS
+DOMAIN-SUFFIX,dns.adguard-dns.com
 # youtube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
