@@ -3,6 +3,15 @@
 DOMAIN-SUFFIX,whatismyipaddress.com
 # DNS
 DOMAIN-SUFFIX,dns.adguard-dns.com
+DOMAIN-SUFFIX,dns.google/dns-query, 
+DOMAIN-SUFFIX,dns.adguard-dns.com/dns-query 
+DOMAIN-SUFFIX,cloudflare-dns.com 
+DOMAIN-SUFFIX,dns.quad9.net 
+DOMAIN-SUFFIX,dns.adguard-dns.com 
+DOMAIN-SUFFIX,dns.comss.one
+IP-CIDR,1.1.1.1/32
+IP-CIDR,8.8.8.8/32
+IP-CIDR,8.8.4.4/32
 # youtube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
