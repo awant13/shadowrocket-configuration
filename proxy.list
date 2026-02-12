@@ -15,7 +15,7 @@ IP-CIDR,8.8.4.4/32
 # youtube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ggpht.com
